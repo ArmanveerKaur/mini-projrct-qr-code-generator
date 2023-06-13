@@ -1,1 +1,1 @@
-# mini-projrct-qr-code-generator
+# mini-project-qr-code-generator
